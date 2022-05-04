@@ -8,3 +8,8 @@
 1. Hello
 2. Good - [x]
 3. Perfect - [ ] 
+
+
+"""python
+def funktion_in_python:
+  print("Hello")
