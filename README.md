@@ -6,11 +6,15 @@
 [Hello fucker](https://www.google.com/webhp?hl=sv&sa=X&ved=0ahUKEwiLzpquqcX3AhUwRfEDHQWBACMQPAgI)
 **Bold** 
 1. Hello
-2. Good - [x]
-3. Perfect - [ ] 
+2. - [x]
+3. - [ ] 
 
 
 
 ```python 
 def funktion_in_python(): ...
 ```
+- [x] create check box
+- [ ] add a description
+- [ ] add some file
+- [ ] code block
