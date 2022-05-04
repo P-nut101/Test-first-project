@@ -11,5 +11,5 @@
 
 
 """python 
-def funktion_in_python:
+def funktion_in_python():
   print("Hello")"""
