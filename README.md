@@ -10,6 +10,6 @@
 3. Perfect - [ ] 
 
 
-"""python 
+'''python 
 def funktion_in_python(): ...
-"""
+'''
