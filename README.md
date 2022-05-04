@@ -12,4 +12,4 @@
 
 """python
 def funktion_in_python:
-  print("Hello")
+  print("Hello")"""
